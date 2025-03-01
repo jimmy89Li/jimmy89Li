@@ -54,7 +54,9 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-2088FF?logo=github&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](#)
+[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
 
 ### Operating Systems
 
