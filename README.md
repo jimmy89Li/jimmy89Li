@@ -24,10 +24,14 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-282a36?logo=react&logoColor=61DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-282a36?logo=symfony&logoColor=fff)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Fastly](https://img.shields.io/badge/Fastly-FF282D?logo=fastly&logoColor=fff&style=flat)](#)
 
 ### Databases
 
@@ -49,6 +53,8 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=flat)](#)
+[![Gulp](https://img.shields.io/badge/Gulp-%23CF4647.svg?logo=gulp&logoColor=white)](#)
 
 ### Version Control
 
