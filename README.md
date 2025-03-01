@@ -31,7 +31,6 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![Fastly](https://img.shields.io/badge/Fastly-FF282D?logo=fastly&logoColor=fff&style=flat)](#)
 
 ### Databases
 
