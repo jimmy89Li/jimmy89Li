@@ -12,7 +12,6 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![PHP](https://img.shields.io/badge/php-777BB4?&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Shell](https://img.shields.io/badge/shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
