@@ -7,45 +7,40 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 
 ## Tech stack
 
-### Languages
+### Languages / Scripts
 
 [![PHP](https://img.shields.io/badge/php-777BB4?&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Shell](https://img.shields.io/badge/shell-%23121011.svg?logo=gnu-bash&logoColor=white&style=flat)](#)
+[![Shell](https://img.shields.io/badge/shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-282a36?logo=json&logoColor=fff)](#)
 
-### Frameworks
+### Libraries / Frameworks
 
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-282a36?logo=react&logoColor=61DAFB)](#)
+[![Symfony](https://img.shields.io/badge/Symfony-282a36?logo=symfony&logoColor=fff)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)](#)
 
 ### Databases
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)](#)
-
-### CI
-
-[![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat)](#)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat)](#)
 
 ### Servers
 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](#)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white&style=flat)](#)
-[![Platform.sh](https://img.shields.io/badge/Platform.sh-1A182A.svg?logo=platformdotsh&logoColor=white&style=flat)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Platform.sh](https://img.shields.io/badge/Platform.sh-1A182A.svg?logo=platformdotsh&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?logo=amazon-web-services&logoColor=000)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](#)
 
@@ -58,6 +53,8 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 ### Version Control
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-2088FF?logo=github&logoColor=white)](#)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](#)
 
 ### Operating Systems
 
@@ -70,7 +67,7 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white&style=flat)](#)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)](#)
 
 ### Content Management Systems
 
