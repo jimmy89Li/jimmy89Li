@@ -9,14 +9,14 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 
 ### Languages / Scripts
 
-[![PHP](https://img.shields.io/badge/php-777BB4?&logo=php&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-777BB4?&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)]([#](https://sass-lang.com/))
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)](#)
-[![JSON](https://img.shields.io/badge/JSON-282a36?logo=json&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-282a36?logo=json&logoColor=fff)](https://www.json.org)
 
 ### Libraries / Frameworks
 
