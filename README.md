@@ -68,12 +68,13 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-### Collaboration Tools
+### Tools
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white&style=flat)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)](#)
+[![Postman](https://img.shields.io/badge/Postman-FFF?logo=postman&style=flat)](#)
 
 ### Content Management Systems
 
