@@ -45,6 +45,7 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 [![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?logo=amazon-web-services&logoColor=000)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-282a36?logo=Netlify)](#)
 
 ### Package Managers
 
