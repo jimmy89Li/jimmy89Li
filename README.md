@@ -21,8 +21,9 @@ Dedicated to delivering high-quality code and collaborating with cross-functiona
 ### Libraries / Frameworks
 
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-282a36?logo=react&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/Next.js-282a36?&logo=nextdotjs&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-282a36?logo=symfony&logoColor=fff)](#)
